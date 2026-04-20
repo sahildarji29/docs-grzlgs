@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-nhp22f.gcpinboxess.com/sitemap.xml
